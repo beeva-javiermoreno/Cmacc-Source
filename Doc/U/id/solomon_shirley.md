@@ -1,23 +1,27 @@
 =[ZZ/ID/0/Human/He/0.md]
 
-Adr.=[U/at/US/MA/Middlesex/Cambridge/Geo]  
+Adr.=[U/at/US/MA/Middlesex/Waltham/Geo]  
+
+Adr.Street.Name=Main Street
+
+Adr.Street.#=332
+
+Adr.Zip=02452
+
+Birth.Adr.=[U/at/US/MA/Suffolk/Boston/Geo]  
 
 Name.Last=Shirley
 
 Name.First=Solomon
 
-Adr.Type=business
+Birth.YMD=1974-03-04
 
-Adr.1=100 Madison Street
+Citizen.nationality.FR=américain
 
-Adr.Zip=02144
+Work.profession.FR=comptable
 
-Phone=617.671.7617
+Phone=1.617.671.7617
 
-Fax=617.555.1110
+Fax=1.617.555.1110
 
 Email=solomon.shirley@gmail.com
-
-Atty.=[U/id/samuel_hardy]
-
-PageName=U/id/solomon_shirley

@@ -6,8 +6,6 @@ State/Commonwealth=State
 
 2={City}, {ST}  {Zip}
 
-City,State,Country={City}, {State}, {Country}
-
 City,State,Nation={City}, {State}, {Nation}
 
 Name={Name.Full}

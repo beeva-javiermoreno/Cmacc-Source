@@ -2,20 +2,24 @@
 
 Adr.=[U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
-Birth.=[U/at/US/NY/New_York/New_York/Geo]
+Birth.Adr.=[U/at/US/NY/New_York/New_York/Wall_Street/48/Geo]
 
 Name.First=Abigail
 
 Name.Last=Altima
 
-Birth.YMD=January 11, 1988
+Birth.YMD=1988-01-18
 
 Citizen.=[U/at/US/Geo]
 
-Work.profession=engineer
+Citizen.nationality.FR=américain
 
-Phone.Fixed=617.555.5550
+Work.profession.FR=ingenieure
 
-Phone.Mobile=617.444.2223
+Work.profession.EN=engineer
+
+Phone.Fixed=1.617.555.5550
+
+Phone.Mobile=1.617.444.2223
 
 Email=abigail@altimaomelettes.com
