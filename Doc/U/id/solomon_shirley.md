@@ -1,3 +1,7 @@
+=[ZZ/ID/0/Human/He/0.md]
+
+Adr.=[U/at/US/MA/Middlesex/Cambridge/Geo]  
+
 Name.Last=Shirley
 
 Name.First=Solomon
@@ -17,7 +21,3 @@ Email=solomon.shirley@gmail.com
 Atty.=[U/id/samuel_hardy]
 
 PageName=U/id/solomon_shirley
-
-=[U/class/ID_He]
-
-=[U/at/US/MA/Middlesex/Cambridge/Geo]

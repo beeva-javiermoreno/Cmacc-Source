@@ -1,10 +1,10 @@
 =[U/class/Geo_USA]
 
-Adr.3={Adr.Nation}
+3={Nation}
 
-Adr.Nation=United States of America
+Nation=United States of America
 
-Adr.UK=USA
+UK=USA
 
 State.the=the {State/Commonwealth} of {State}
 
