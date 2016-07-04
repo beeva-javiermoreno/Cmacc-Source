@@ -1,6 +1,6 @@
-=[U/class/ID_She]
+=[zID/0/Human/She/0.md]
 
-=[U/at/US/MA/Middlesex/Cambridge/Broadway/55/Geo]
+Adr.=[U/at/US/MA/Middlesex/Cambridge/Broadway/55/Geo]
 
 Name.First=Andrea
 

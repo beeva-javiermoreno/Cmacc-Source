@@ -1,4 +1,4 @@
-=[ZZ/ID/0/Human/He/0.md]
+=[zID/0/Human/He/0.md]
 
 Adr.=[U/at/US/MA/Middlesex/Waltham/Geo]  
 
@@ -15,6 +15,10 @@ Name.Last=Shirley
 Name.First=Solomon
 
 Birth.YMD=1974-03-04
+
+Citizen.nationality.EN=American
+
+Work.profession.EN=accountant
 
 Citizen.nationality.FR=américain
 

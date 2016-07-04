@@ -10,13 +10,15 @@ Fax=1.617.345.1234
 
 Capital.All.FR=Deux cents cinquante milles dollars US
 
-=[ZZ/ID/0/Entity/0.md]
+=[zID/0/Entity/0.md]
 
 Adr.=[U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
 Register.Adr.=[U/at/US/DE/New_Castle/Wilmington/Geo]
 
 Register.Agent.=[U/id/the_corporation_company.md]
+
+Personality.Type.a.EN=a corporation
 
 Personality.Type.EN=corporation
 

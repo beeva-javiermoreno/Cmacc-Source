@@ -1,4 +1,4 @@
-=[ZZ/ID/EN/Entity/0.md]
+=[zID/EN/Entity/0.md]
 
 =[U/at/US/DE/New_Castle/Wilmington/Geo]
 

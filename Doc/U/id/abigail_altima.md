@@ -1,4 +1,4 @@
-=[ZZ/ID/0/Human/She/0.md]
+=[zID/0/Human/She/0.md]
 
 Adr.=[U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
@@ -11,6 +11,8 @@ Name.Last=Altima
 Birth.YMD=1988-01-18
 
 Citizen.=[U/at/US/Geo]
+
+Citizen.nationality.EN=American
 
 Citizen.nationality.FR=américain
 

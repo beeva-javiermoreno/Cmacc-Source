@@ -1,4 +1,4 @@
-=[ZZ/ID/0/Entity/0.md]
+=[zID/0/Entity/0.md]
 
 =[U/at/US/CA/San_Francisco/San_Francisco/Geo]
 

@@ -1,60 +1,37 @@
-=[ZZ/ID/0/Entity/0.md]
+=[zID/0/Entity/0.md]
 
-=[U/at/US/CA/San_Mateo/Menlo_Park/Geo]
+Adr.=[U/at/US/CA/San_Mateo/Menlo_Park/Geo]
 
-Register.=[U/at/US/DE/New_Castle/Wilmington/Geo]
 
-Home.=[U/at/US/CA/San_Mateo/Menlo_Park/Geo]
+Register.Adr.=[U/at/US/DE/New_Castle/Wilmington/Geo]
 
-EntityType=corporation
+Signer.=[U/id/andrea_ang.md]
 
-RCS.Adr.City=N/A
-
-RCS.#={Register.RegistrationNumber}
-
-Adr.3=
-
-Register.EntityType.a=a {entity}
-
-Register.RegistrationNumber=34567876543
-
-Name.Full=Quake Inc.
+Name.Inc=Inc.
 
 Name.Given=Quake
 
-Adr.Type=principal
+Email=Kendall@quake.com
 
-Adr.1=233 Curtis Street
+Phone=1.650.555.5500
+
+Fax=1.650.555.5511
+
+Capital.All.FR=Trois cents milles dollars US
+
+Personality.Type.FR="corporation" à liabilité limitée de Delaware
+
+Personality.Type.a.EN=a Delaware LLC
+
+
+Register.Account.#=LLC-564738291
+
+Adr.Street.#=233
+
+Adr.Street.Name=Curtis Street
 
 Adr.Zip=94025
 
-Phone=650.555.5500
+Register.RegistrationNumber=9998778789
 
-Fax=650.555.5511
-
-entity=Delaware corporation
-
-Adr.Type=business
-
-BusinessDomain=information services consulting
-
-
-President.Title=President and Chairman 
-
-President.=[U/id/colleen_kendall]
-
-Atty.=[U/id/quade_and_quinn]
-
-Notice.Name,Title={President.Name.Full}, {President.Title}
-
-SignBy=By: <u>{xSignature}</u><br/>Name: {President.Name.Full}<br/>Its: {President.Title}
-
-Sign.Name.Full={President.Name.Full}
-
-Sign.Title={President.Title}
-
-Signer.Name.Full={President.Name.Full}
-
-Signer.Title={President.Title}
-
-Email=Kendall@quake.com
+Signer.Title=President and Chairman
